@@ -1,0 +1,9 @@
+D:\303P\C#\Hello\Hello\bin\Debug\Hello.exe
+D:\303P\C#\Hello\Hello\bin\Debug\Hello.pdb
+D:\303P\C#\Hello\Hello\obj\x86\Debug\Hello.exe
+D:\303P\C#\Hello\Hello\obj\x86\Debug\Hello.pdb
+D:\Уроки\OB\Hello\Hello\obj\x86\Debug\Hello.exe
+D:\Уроки\OB\Hello\Hello\obj\x86\Debug\Hello.pdb
+D:\Уроки\OB\Hello\Hello\bin\Debug\Hello.exe
+D:\Уроки\OB\Hello\Hello\bin\Debug\Hello.pdb
+D:\Уроки\OB\Hello\Hello\obj\x86\Debug\Hello.csprojResolveAssemblyReference.cache
